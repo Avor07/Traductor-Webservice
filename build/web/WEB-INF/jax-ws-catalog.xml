@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="http://calculator-webservice.mybluemix.net/calculator?wsdl" uri="wsdl/calculator-webservice.mybluemix.net/calculator.wsdl"/>
+    <system systemId="http://calculator-webservice.mybluemix.net/calculator?xsd=1" uri="wsdl/calculator-webservice.mybluemix.net/calculator.xsd_1.xsd"/>
+    <system systemId="http://www.dataaccess.com/webservicesserver/numberconversion.wso?WSDL" uri="wsdl/www.dataaccess.com/webservicesserver/numberconversion.wso.wsdl"/>
+</catalog>
